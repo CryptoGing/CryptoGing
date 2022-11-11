@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryptoGing
 - 👀 I’m interested in Building on Pi Network
-- 🌱 I’m currently learning PHP, server side development
+- 🌱 I’m currently learning React Native, Mobile App Development
 - 💞️ I’m looking to collaborate on helping you build on Pi
 - 📫 Reach me on Discord @Crypto_Ging#5791
 
